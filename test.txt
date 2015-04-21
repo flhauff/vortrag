@@ -6,3 +6,5 @@ public boolean testMethodA(){
 public void testMethodB(){
 	System.out.println("blabla");
 }
+
+public blabla{}
