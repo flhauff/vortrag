@@ -1,2 +1,4 @@
 blablaUserA
-
+public void testMethodB(){
+	System.out.println("blabla");
+}
