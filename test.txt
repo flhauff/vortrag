@@ -1,2 +1,5 @@
 blablaUserA
 
+public boolean testMethodA(){
+	return true;
+}
