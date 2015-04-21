@@ -1,5 +1,8 @@
 blablaUserA
-
 public boolean testMethodA(){
 	return true;
+}
+
+public void testMethodB(){
+	System.out.println("blabla");
 }
